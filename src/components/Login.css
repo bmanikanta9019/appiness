@@ -1,0 +1,14 @@
+.centering{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loginLayout{
+    border: 1px solid black;
+    padding: 15px;
+    height: 350px;
+    width: 450px;
+}
+.textCenter{
+    text-align: center;
+}
